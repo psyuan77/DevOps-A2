@@ -1,6 +1,6 @@
 # React App with Docker and GitHub Pages
 
-[![Deploy to GitHub Pages](https://github.com/yourusername/my-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/my-app/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/psyuan77/my-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/psyuan77/my-app/actions/workflows/deploy.yml)
 
 A React application built with Vite, featuring Docker development environment and automated deployment to GitHub Pages.
 
